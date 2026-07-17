@@ -1,0 +1,10 @@
+// {
+//     "files.associations": {
+//         "templates/*.html": "jinja"
+//     }
+// }
+{
+    "files.associations": {
+        "*.html": "jinja-html"
+    }
+}
